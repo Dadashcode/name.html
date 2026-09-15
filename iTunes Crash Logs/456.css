@@ -1,0 +1,60 @@
+
+body {
+    background-color: aqua;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-family: fantasy;
+    position: relative;
+}
+ul {
+    background-color: black;
+    padding: 20px;
+}
+#k1:hover {
+    background-color: rgb(253, 255, 255);
+    color: black;
+    font-size: 20px;
+    font-family: fantasy;
+    border-radius: 22px;
+    box-shadow: 6px 5px 9px aqua;
+}
+#k2:hover {
+    background-color: rgb(253, 255, 255);
+    color: black;
+    font-size: 20px;
+    font-family: fantasy;
+    border-radius: 22px;
+    box-shadow: 6px 5px 9px aqua;
+}
+#k3:hover {
+    background-color: rgb(253, 255, 255);
+    color: black;
+    font-size: 20px;
+    font-family: fantasy;
+    border-radius: 22px;
+    box-shadow: 6px 5px 9px aqua;
+}
+#k4:hover {
+    background-color: rgb(253, 255, 255);
+    color: black;
+    font-size: 20px;
+    font-family: fantasy;
+    border-radius: 22px;
+    box-shadow: 6px 5px 9px aqua;
+}
+#k5:hover {
+    background-color: rgb(253, 255, 255);
+    color: black;
+    font-size: 20px;
+    font-family: fantasy;
+    border-radius: 22px;
+    box-shadow: 6px 5px 9px aqua;
+}
