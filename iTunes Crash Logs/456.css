@@ -18,7 +18,7 @@ ul {
     background-color: black;
     padding: 20px;
 }
-#k1:hover {
+#a1:hover {
     background-color: rgb(253, 255, 255);
     color: black;
     font-size: 20px;
@@ -26,7 +26,7 @@ ul {
     border-radius: 22px;
     box-shadow: 6px 5px 9px aqua;
 }
-#k2:hover {
+#a2:hover {
     background-color: rgb(253, 255, 255);
     color: black;
     font-size: 20px;
@@ -34,7 +34,7 @@ ul {
     border-radius: 22px;
     box-shadow: 6px 5px 9px aqua;
 }
-#k3:hover {
+#a3:hover {
     background-color: rgb(253, 255, 255);
     color: black;
     font-size: 20px;
@@ -42,7 +42,7 @@ ul {
     border-radius: 22px;
     box-shadow: 6px 5px 9px aqua;
 }
-#k4:hover {
+#a4:hover {
     background-color: rgb(253, 255, 255);
     color: black;
     font-size: 20px;
@@ -50,7 +50,7 @@ ul {
     border-radius: 22px;
     box-shadow: 6px 5px 9px aqua;
 }
-#k5:hover {
+#a5:hover {
     background-color: rgb(253, 255, 255);
     color: black;
     font-size: 20px;
